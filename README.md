@@ -39,10 +39,10 @@ npm run dev
 
 4. Open http://localhost:3000
 
-##Approach
+## Approach
 
 - ✅ Used TanStack Query for efficient data fetching and caching
-- ✅ Implemented URL-based pagination for shareable links
+- ✅ Implemented URL-based pagination 
 - ✅ Added global search with debouncing
-- ✅ Integrated Shadcn components for consistent UI
+- ✅ Integrated Shadcn components 
 - ✅ Added error boundaries and loading states
